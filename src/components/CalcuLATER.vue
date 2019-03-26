@@ -128,7 +128,7 @@
         }
       },
       Seven: function() {
-        this.firstTemp = '1';
+        this.firstTemp = '7';
         if (this.display == 0 || this.newNumber == true){
         this.display = this.firstTemp;
         this.newNumber = false;
